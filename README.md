@@ -12,5 +12,6 @@ Experimental Setting:
 * Learning Rate: 0.01
 * Number to be generated: 7
 
+![alt text](https://github.com/arunsethupat/GANs-for-Semi-Supervised-Learning/blob/master/Images%20Generated/001.png?raw=true)
 
 
