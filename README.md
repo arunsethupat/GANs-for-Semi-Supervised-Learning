@@ -7,4 +7,4 @@ We have seen that Generative Adversarial Networks have been of great use in solv
 Results 
 ==================
 Experimental Setting:
-**Number of Epochs: 20,000
+* Number of Epochs: 20,000
