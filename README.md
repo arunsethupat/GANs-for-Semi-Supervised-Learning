@@ -2,4 +2,4 @@
 
 Abstract
 ===========================
-*something*
+We have seen that Generative Adversarial Networks have been of great use in solving varied set of problems. In this project we analyzed three types of GANs: vanilla GANs, CGAN and InfoGAN and realized their limitations and tried to come up with a new architecture to solve it. C-GANs requires the conditional codes to be sent to the model during the training. InfoGAN learns the inherent latent codes automatically in an unsupervised way but they are not interpretable. We combined the idea of CGANs and InfoGANs to come up with an architecture to learn interpretable latent codes.
