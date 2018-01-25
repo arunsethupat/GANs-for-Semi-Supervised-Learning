@@ -8,3 +8,9 @@ Results
 ==================
 Experimental Setting:
 * Number of Epochs: 20,000
+* Optimizer: Adam Optimizer
+* Learning Rate: 0.01
+* Number to be generated: 7
+
+
+
